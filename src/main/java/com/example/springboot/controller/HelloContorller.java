@@ -8,6 +8,6 @@ public class HelloContorller {
 
     @GetMapping("/hello")
     public String getHello(){
-        return "Hello world";
+        return "Hello world ocp";
     }
 }
